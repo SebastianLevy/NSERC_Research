@@ -65,7 +65,7 @@ Each mode has distinct applications in prosthetic control and robotics.
 
 ---
 
-For further inquiries or support, please contact [Your Contact Information].
+For further inquiries or support, please contact Sebastian Levy at sebastianlevy@cmu.edu
 
 ---
 
