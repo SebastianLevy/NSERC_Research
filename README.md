@@ -1,6 +1,8 @@
 
 # README
 
+### Most of the code is under NDA, however a preview of the code used can be found in this repository
+
 ## Overview
 This document provides instructions for using our research code, specifically focused on training and evaluating models for surface electromyography (sEMG) signal classification. The codebase includes scripts for data collection, processing, model training, and evaluation.
 
